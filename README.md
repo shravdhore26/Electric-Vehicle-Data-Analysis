@@ -15,3 +15,6 @@ Raw dataset - https://www.kaggle.com/datasets/sahirmaharajj/electric-vehicle-pop
  3. PHEV vs. BEV registrations
  4. Truck EV vs. Passenger EV registrations
  5. County-wise PHEVs vs. BEVs comparison.
+
+## Dashboard
+![EV Registration Dashboard](https://github.com/shravdhore26/Electric-Vehicle-Data-Analysis/blob/main/Screenshot%202024-10-07%20205938.png)
